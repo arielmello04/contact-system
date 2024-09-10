@@ -16,6 +16,8 @@ The project is a simple GUI application that uses the Tkinter module in order to
 # Note:
 I tried to develop the project focusing on the English language, as I believe it makes it more semantic.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PT-BR
 # Projeto de Sistema de Gerenciamento de Contatos em Python
 Este Sistema de Gerenciamento de Contatos é um programa em Python que pode gerenciar a lista de informações de contato. O objetivo do sistema é organizar a lista de todos os contatos disponíveis, como inserindo nomes e números de telefone. Este programa foi desenvolvido usando apenas a linguagem Python.
